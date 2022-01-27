@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ts-app/static/js/main.a77dcb79.js",
+    "index.html": "/ts-app/index.html",
+    "main.a77dcb79.js.map": "/ts-app/static/js/main.a77dcb79.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a77dcb79.js"
+  ]
+}
